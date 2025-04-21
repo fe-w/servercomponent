@@ -40,7 +40,7 @@ export default function RootLayout({
           <Link href='/page05'>page05</Link>
           <Link href='/page06'>page06</Link>
         </div>
-        {/* <Link href='/page07'>page07</Link> */}
+        <Link href='/pageAll'>All</Link>
       </nav>
       <main>
         {children}
